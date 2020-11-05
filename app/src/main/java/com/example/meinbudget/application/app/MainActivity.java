@@ -1,10 +1,10 @@
-package com.example.meinbudget.application;
+package com.example.meinbudget.application.app;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.os.Bundle;
+        import android.os.Bundle;
 
-import com.example.meinbudget.R;
+        import com.example.meinbudget.R;
 
 public class MainActivity extends AppCompatActivity {
 
